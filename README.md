@@ -9,6 +9,7 @@ This plugin integrates [Geoman.io](https://geoman.io/) (formerly Leaflet-Geoman)
 - Edit existing shapes: move, resize, rotate
 - Delete shapes
 - Includes Turf.js for precise geometric calculations
+- Increases max zoom to 26.
 
 ## Building
 
