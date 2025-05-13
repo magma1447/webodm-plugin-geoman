@@ -1,0 +1,10 @@
+{
+  "name": "Geoman",
+  "webodmMinVersion": "2.8.1",
+  "description": "Adds Geoman drawing tools to WebODM with support for exact measurements",
+  "version": "0.1.0",
+  "author": "Magnus Månsson",
+  "tags": ["shapes", "measurements"],
+  "experimental": false,
+  "deprecated": false
+}

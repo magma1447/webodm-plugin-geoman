@@ -1,0 +1,16 @@
+{
+  "name": "geoman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.13.0",
+    "@turf/turf": "^6.5.0"
+  }
+}
+
